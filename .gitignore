@@ -1,0 +1,33 @@
+# Directorios y archivos generados automáticamente por Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.log
+*.tlog
+*.ipch
+*.aps
+*.pch
+*.dbmdl
+*.opendb
+*.vcxproj.user
+*.temp
+*.ncb
+*.ide
+*.sqlite
+
+# Archivos de configuración específicos del entorno
+*.env
+*.bak
+*.old
+
+# Archivos generados por compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos de configuración de Visual Studio Code
+.vscode/
